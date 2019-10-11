@@ -1,0 +1,117 @@
+1 Castle Ardenvale (ELD) 238
+3 Idyllic Grange (ELD) 246
+2 Beloved Princess (ELD) 7
+2 Giant Killer (ELD) 14
+2 Outflank (ELD) 23
+4 True Love's Kiss (ELD) 34
+1 Lonesome Unicorn (ELD) 21
+2 Prized Griffin (ELD) 24
+1 Realm-Cloaked Giant (ELD) 26
+1 Castle Vantress (ELD) 242
+3 Mystic Sanctuary (ELD) 247
+4 Merfolk Secretkeeper (ELD) 53
+4 Edgewall Innkeeper (ELD) 151
+4 Opt (ELD) 59
+4 Overwhelmed Apprentice (ELD) 60
+3 So Tiny (ELD) 64
+3 Fae of Wishes (ELD) 44
+4 Faerie Vandal (ELD) 45
+3 Folio of Fancies (ELD) 46
+1 Frogify (ELD) 47
+4 Run Away Together (ELD) 62
+3 Vantress Gargoyle (ELD) 71
+3 Wishful Merfolk (ELD) 73
+3 Animating Faerie (ELD) 38
+4 Brazen Borrower (ELD) 39
+3 Charmed Sleep (ELD) 40
+4 Didn't Say Please (ELD) 42
+1 Emry, Lurker of the Loch (ELD) 43
+3 Mirrormade (ELD) 55
+1 Mystical Dispute (ELD) 58
+2 Tome Raider (ELD) 68
+1 Mistford River Turtle (ELD) 56
+1 Turn into a Pumpkin (ELD) 69
+4 Vantress Paladin (ELD) 72
+1 Sage of the Falls (ELD) 63
+1 Unexplained Vision (ELD) 70
+1 Moonlit Scavengers (ELD) 57
+3 Into the Story (ELD) 50
+1 Witch's Cottage (ELD) 249
+4 Cauldron Familiar (ELD) 81
+3 Forest (ANA) 65
+4 Eye Collector (ELD) 86
+1 Specter's Shriek (ELD) 106
+3 Bake into a Pie (ELD) 76
+2 Locthwain Paladin (ELD) 93
+3 Revenge of Ravens (ELD) 104
+1 Bog Naughty (ELD) 80
+1 Wicked Guardian (ELD) 109
+1 Festive Funeral (ELD) 87
+1 Clackbridge Troll (ELD) 84
+4 Syr Konrad, the Grim (ELD) 107
+2 The Cauldron of Eternity (ELD) 82
+1 Castle Embereth (ELD) 239
+3 Dwarven Mine (ELD) 243
+3 Barge In (ELD) 112
+1 Redcap Melee (ELD) 135
+1 Weaselback Redcap (ELD) 148
+1 Bloodhaze Wolverine (ELD) 113
+2 Embereth Shieldbreaker (ELD) 122
+1 Crystal Slipper (ELD) 119
+4 Fling (ELD) 126
+3 Rimrock Knight (ELD) 137
+3 Swamp (ANA) 63
+3 Scorching Dragonfire (ELD) 139
+1 Seven Dwarves (ELD) 141
+1 Thrill of Possibility (ELD) 146
+4 Blow Your House Down (ELD) 114
+2 Bonecrusher Giant (ELD) 115
+4 Brimstone Trebuchet (ELD) 116
+1 Ferocity of the Wilds (ELD) 123
+1 Irencrag Pyromancer (ELD) 128
+3 Merchant of the Vale (ELD) 131
+1 Raging Redcap (ELD) 134
+2 Redcap Raiders (ELD) 136
+2 Slaying Fire (ELD) 143
+3 Embereth Paladin (ELD) 121
+1 Fires of Invention (ELD) 125
+1 Irencrag Feat (ELD) 127
+1 Ogre Errant (ELD) 132
+1 Torbran, Thane of Red Fell (ELD) 147
+3 Burning-Yard Trainer (ELD) 117
+3 Searing Barrage (ELD) 140
+1 Syr Carah, the Bold (ELD) 145
+2 Embercleave (ELD) 120
+1 Sundering Stroke (ELD) 144
+3 Gingerbread Cabin (ELD) 245
+4 Flaxen Intruder (ELD) 155
+1 Rosethorn Halberd (ELD) 175
+1 Wildwood Tracker (ELD) 183
+3 Curious Pair (ELD) 150
+4 Fell the Pheasant (ELD) 153
+2 Island (ANA) 62
+2 Garenbrig Squire (ELD) 158
+3 Kenrith's Transformation (ELD) 164
+1 Maraleaf Rider (ELD) 166
+1 Once Upon a Time (ELD) 169
+4 Return to Nature (ELD) 173
+1 Syr Faren, the Hengehammer (ELD) 177
+2 Trail of Crumbs (ELD) 179
+2 Wildborn Preserver (ELD) 182
+3 Giant Opportunity (ELD) 159
+1 Lovestruck Beast (ELD) 165
+4 Rosethorn Acolyte (ELD) 174
+2 Sporecap Spider (ELD) 176
+1 Yorvo, Lord of Garenbrig (ELD) 185
+1 Garenbrig Carver (ELD) 156
+1 Oakhame Adversary (ELD) 167
+2 Once and Future (ELD) 168
+1 Outmuscle (ELD) 170
+1 Tall as a Beanstalk (ELD) 178
+1 Garenbrig Paladin (ELD) 157
+1 Feasting Troll King (ELD) 152
+1 Tuinvale Treefolk (ELD) 180
+1 Wolf's Quarry (ELD) 184
+4 Beanstalk Giant (ELD) 149
+
+
